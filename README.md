@@ -4,20 +4,6 @@
     </a>
 </p>
 
-<p align="center">
-    <a href="https://github.com/faustbrian/blade-icons-clarity-icons/actions">
-        <img src="https://badge.sh/github/check-runs/BombenProdukt/blade-icons-clarity-icons" alt="Checks" />
-    </a>
-    <a href="https://packagist.org/packages/bombenprodukt/blade-icons-clarity-icons">
-        <img src="https://badge.sh/packagist/downloads/BombenProdukt/blade-icons-clarity-icons" alt="Downloads" />
-    </a>
-    <a href="https://packagist.org/packages/bombenprodukt/blade-icons-clarity-icons">
-        <img src="https://badge.sh/packagist/version/BombenProdukt/blade-icons-clarity-icons" alt="Version" />
-    </a>
-    <a href="https://packagist.org/packages/bombenprodukt/blade-icons-clarity-icons">
-        <img src="https://badge.sh/packagist/license/BombenProdukt/blade-icons-clarity-icons" alt="License" />
-    </a>
-</p>
 
 ## About Clarity Icons
 
