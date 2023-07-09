@@ -2,7 +2,7 @@ style: github
 template: CHANGELOG.tpl.md
 info:
   title: CHANGELOG
-  repository_url: https://github.com/BombenProdukt/blade-icons-clarity-icons
+  repository_url: https://github.com/faustbrian/blade-icons-clarity-icons
 options:
   commits:
     filters:
